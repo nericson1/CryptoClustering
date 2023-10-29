@@ -1,1 +1,1 @@
-# CryptoClustering
+# crypto-clustering
